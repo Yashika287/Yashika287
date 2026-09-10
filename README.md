@@ -3,10 +3,15 @@ A passionate Data Engineer
 
 # 💫 About Me:
 👩‍💻 Currently working on: Data Engineering projects & end-to-end data pipelines
+
 🤝 Looking to collaborate on: Data Engineering, ETL/ELT & open-source projects
+
 🆘 Looking for help with: Scalable pipelines, cloud data platforms & real-world architectures
+
 📚 Currently learning: PySpark, Snowflake, Hadoop, DataOps & Cloud
+
 💬 Ask me about: Python, SQL, PySpark, Power BI & Data Engineering
+
 ⚡ Fun fact: I enjoy transforming messy data into meaningful insights 🚀
 
 ## 🌐 Socials:
