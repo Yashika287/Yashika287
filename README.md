@@ -1,3 +1,6 @@
+# 💫 Hi 👋, I'm Yashika Dhargave
+**A passionate Data Engineer**
+
 # 💫 About Me:
 👩‍💻 I'm currently working on :<br>Data Engineering projects involving Python, SQL, PySpark, Snowflake, and Power BI.<br><br>🤝 I'm looking to collaborate on :<br>Data Engineering, ETL/ELT, Data Analytics, and open-source projects.<br><br>🆘 I'm looking for help with :<br>Building scalable data pipelines, cloud-based data engineering, and best practices for real-world data projects.<br><br>📚 I'm currently learning :<br>Advanced PySpark, Apache Hadoop, Snowflake, DataOps, Linux, and cloud technologies.<br><br>💬 Ask me about :<br>Python, SQL, PySpark, Power BI, Data Analytics, ETL pipelines, and my journey into Data Engineering.<br><br>⚡ Fun fact :<br>I started with curiosity about data and somehow ended up enjoying turning messy data into something useful! 🚀
 
@@ -15,7 +18,9 @@
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+  <img src="https://raw.githubusercontent.com/Yashika287/Yashika287/output/github-snake.svg" alt="Snake animation" />
+
 </div>
 
 ## 🏆 GitHub Trophies
