@@ -1,9 +1,13 @@
 # 💫 Hi 👋, I'm Yashika Dhargave
-**A passionate Data Engineer**
+A passionate Data Engineer
 
 # 💫 About Me:
-👩‍💻 I'm currently working on :<br>Data Engineering projects involving Python, SQL, PySpark, Snowflake, and Power BI.<br><br>🤝 I'm looking to collaborate on :<br>Data Engineering, ETL/ELT, Data Analytics, and open-source projects.<br><br>🆘 I'm looking for help with :<br>Building scalable data pipelines, cloud-based data engineering, and best practices for real-world data projects.<br><br>📚 I'm currently learning :<br>Advanced PySpark, Apache Hadoop, Snowflake, DataOps, Linux, and cloud technologies.<br><br>💬 Ask me about :<br>Python, SQL, PySpark, Power BI, Data Analytics, ETL pipelines, and my journey into Data Engineering.<br><br>⚡ Fun fact :<br>I started with curiosity about data and somehow ended up enjoying turning messy data into something useful! 🚀
-
+👩‍💻 Currently working on: Data Engineering projects & end-to-end data pipelines
+🤝 Looking to collaborate on: Data Engineering, ETL/ELT & open-source projects
+🆘 Looking for help with: Scalable pipelines, cloud data platforms & real-world architectures
+📚 Currently learning: PySpark, Snowflake, Hadoop, DataOps & Cloud
+💬 Ask me about: Python, SQL, PySpark, Power BI & Data Engineering
+⚡ Fun fact: I enjoy transforming messy data into meaningful insights 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yrr_yashika) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashika-dhargave/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashudhargave0@gmail.com) 
